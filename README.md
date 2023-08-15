@@ -162,4 +162,3 @@ I would like to thank [Microverse](https://github.com/microverseinc) for the imm
 This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
