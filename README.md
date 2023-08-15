@@ -1,165 +1,70 @@
-<a name="readme-top"></a>
+# Getting Started with Create React App
 
-<div align="center">
-  <h1><b>Math Magicians Project</b></h1>
-</div>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# 📗 Table of Contents
+## Available Scripts
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-  - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+In the project directory, you can run:
 
-<!-- PROJECT DESCRIPTION -->
+### `npm start`
 
-# ➗ Math Magicians! <a name="about-project"></a>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-This project, eventually, will become a fully fledged calculator application 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 🛠 Built With <a name="built-with"></a>
+### `npm test`
 
-### Tech Stack <a name="tech-stack"></a>
-Website currently uses:
-- Node.js
-- and the React library
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<!-- Features -->
+### `npm run build`
 
-### Key Features <a name="key-features"></a>
-This website includes no features as of yet!
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<!-- LIVE DEMO -->
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## 🚀 Live Demo <a name="live-demo"></a>
+### `npm run eject`
 
-There's, currently, no live demo for this project.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<!-- GETTING STARTED -->
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## 💻 Getting Started <a name="getting-started"></a>
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- To get a local copy up and running, follow these steps.
+## Learn More
 
-### Prerequisites
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-In order to run this project you need:
-- Node.js and git on your local computer.
- 
-### Setup
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-- Clone this repository to your desired folder:
+### Code Splitting
 
-Example commands:
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-```sh
-  git https://github.com/Arch-Noize/math-magicians.git
-  cd math-magicians
-```
+### Analyzing the Bundle Size
 
-### Install
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-- Run:
-```sh
-npm install
-```
+### Making a Progressive Web App
 
-### Usage
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-- In order to run this project, clone this repository to your PC and open a terminal, then use:
-```sh
-npm start
-```
+### Advanced Configuration
 
-### Run tests
-
-If you are facing linter errors, use:
-
-- For Stylelint:
-
-```
-npx stylelint "**/*.{css}"
-```
-
-- For ESlint:
-
-```
-npx eslint "**/*.{js,jsx}"
-```
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
-- The website hasn't been deployed
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### `npm run build` fails to minify
 
-  <!-- AUTHORS -->
-
-## 👥 Author <a name="authors"></a>
-
-👤 **Santiago Ruido**
-
-- GitHub: [@Arch-Noize](https://github.com/Arch-Noize)
-- LinkedIn: [Santiago Ruido](https://www.linkedin.com/in/santiago-ruido-a1404880/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- Making a fully functional calculator
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [Isues Pages](https://github.com/Arch-Noize/javascript-capstone/issues)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you like this project kindly give it a star⭐️.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank [Microverse](https://github.com/microverseinc) for the immense support.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
