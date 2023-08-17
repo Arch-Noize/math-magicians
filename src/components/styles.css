@@ -8,7 +8,7 @@
   width: fit-content;
   margin: 10rem auto;
   text-align: center;
-  border: 2px solid #000000;
+  border: 2px solid #000;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(5, 1fr);
@@ -32,11 +32,11 @@
   transition: all 0.5s ease;
 }
 
-.button:hover{
+.button:hover {
   filter: brightness(0.8);
 }
 
-.button:active{
+.button:active {
   filter: brightness(0.5);
 }
 
