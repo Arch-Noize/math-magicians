@@ -29,7 +29,7 @@
 
 # ➗ Math Magicians! <a name="about-project"></a>
 
-This project, eventually, will become a fully fledged calculator application 
+This project is a simple, fully fledged calculator application.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -41,7 +41,7 @@ Website currently uses:
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-This website includes no features as of yet!
+This website shows a calculator with all of its basic functions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
