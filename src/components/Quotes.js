@@ -55,9 +55,7 @@ const Quotes = () => {
         {' '}
         <b>{quote.category}</b>
         {' '}
-        quotes in
-        {' '}
-        <a href="https://api.api-ninjas.com/v1/quotes?category=change">here</a>
+        quotes in NinjaAPI
       </div>
     </div>
   );
