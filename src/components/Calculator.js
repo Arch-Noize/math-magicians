@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './styles.css';
+import './styles/styles.css';
 import Button from './Button';
 import calculate from '../logic/calculate';
 
@@ -13,9 +13,12 @@ const Calculator = () => {
     setCalc(calculate(calc, target));
   };
   return (
-    <div className="calculator">
-      <div className="result">{next || total || operation || 0}</div>
-      {numbers.map((number) => <Button number={number} key={number} handleEvent={handleEvent} />)}
+    <div className="calc-container">
+      <h2>Lets do some math!</h2>
+      <div className="calculator">
+        <div className="result">{next || total || operation || 0}</div>
+        {numbers.map((number) => <Button number={number} key={number} handleEvent={handleEvent} />)}
+      </div>
     </div>
   );
 };

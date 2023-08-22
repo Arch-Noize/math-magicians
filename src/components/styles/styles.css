@@ -1,12 +1,24 @@
-* {
-  font-weight: 600;
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.8em;
+  font-weight: 400;
 }
 
 /* Calculator Box */
 
+.calc-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10rem auto;
+  gap: 5em;
+}
+
 .calculator {
   width: fit-content;
-  margin: 10rem auto;
   text-align: center;
   border: 2px solid #000;
   display: grid;
@@ -53,7 +65,7 @@
 
 .quote-block {
   display: flex;
-  margin: -3rem auto;
+  margin: 3rem auto;
   border: 1px solid grey;
   text-align: center;
   width: 80%;
@@ -67,6 +79,7 @@
 }
 
 .loading {
+  text-align: center;
   margin: 0.3em;
   color: #ccc;
 }
