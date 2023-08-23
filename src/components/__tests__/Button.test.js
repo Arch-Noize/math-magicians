@@ -3,8 +3,8 @@ import { render } from '@testing-library/react';
 import Button from '../Button';
 
 it('renders correctly', () => {
-    const tree = renderer
-      .create(<button type="button" className="button" id="operator" onClick={handleEvent}>{number}</button>)
-      .toJSON();
+    const handleEvent = jest.fn();
+    const {tree} = render(<Button number={1} handleEvent={handleEvent}/>)
+
     expect(tree).toMatchSnapshot();
 });
