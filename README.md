@@ -45,14 +45,6 @@ This website shows a calculator with all of its basic functions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-There's, currently, no live demo for this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -135,7 +127,7 @@ You can find the website deployed [here](https://math-magicians-g4p8.onrender.co
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Isues Pages](https://github.com/Arch-Noize/javascript-capstone/issues)
+Feel free to check the [Isues Pages](https://github.com/Arch-Noize/math-magicians/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
