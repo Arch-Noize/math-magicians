@@ -127,7 +127,7 @@ You can find the website deployed [here](https://math-magicians-g4p8.onrender.co
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Isues Pages](https://github.com/Arch-Noize/javascript-capstone/issues)
+Feel free to check the [Isues Pages](https://github.com/Arch-Noize/math-magicians/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
