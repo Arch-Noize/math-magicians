@@ -45,14 +45,6 @@ This website shows a calculator with all of its basic functions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-There's, currently, no live demo for this project.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -104,10 +96,6 @@ npx stylelint "**/*.{css}"
 ```
 npx eslint "**/*.{js,jsx}"
 ```
-
-### Deployment
-
-- The website hasn't been deployed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
